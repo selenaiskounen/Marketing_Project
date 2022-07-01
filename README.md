@@ -1,1 +1,1 @@
-# Marketing_Project
+In this project, you can found my first dashboard made by using "Tableau". It's just a test in case to handle the diffrent commands of this dataviz tool. To do this, I followed the example found on openclassroom :  https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau. 
